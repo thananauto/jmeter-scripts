@@ -1,0 +1,64 @@
+line 4 column 9 - Warning: <meta> lacks "content" attribute
+line 149 column 16 - Warning: unknown attribute "property"
+line 149 column 54 - Warning: unknown attribute "property"
+line 150 column 9 - Warning: <script> lacks "type" attribute
+line 160 column 1 - Warning: <link> isn't allowed in <body> elements
+line 161 column 1 - Warning: <link> isn't allowed in <body> elements
+line 162 column 1 - Warning: <link> isn't allowed in <body> elements
+line 163 column 1 - Warning: <style> isn't allowed in <body> elements
+line 210 column 15 - Warning: <style> isn't allowed in <body> elements
+line 214 column 15 - Warning: <style> isn't allowed in <body> elements
+line 317 column 25 - Warning: <style> isn't allowed in <body> elements
+line 326 column 1 - Warning: unknown attribute "property"
+line 326 column 1 - Warning: meta isn't allowed in <body> elements
+line 327 column 1 - Warning: unknown attribute "property"
+line 327 column 1 - Warning: meta isn't allowed in <body> elements
+line 328 column 1 - Warning: unknown attribute "property"
+line 328 column 1 - Warning: meta isn't allowed in <body> elements
+line 329 column 1 - Warning: unknown attribute "property"
+line 329 column 1 - Warning: meta isn't allowed in <body> elements
+line 330 column 1 - Warning: unknown attribute "property"
+line 330 column 1 - Warning: meta isn't allowed in <body> elements
+line 331 column 1 - Warning: unknown attribute "property"
+line 331 column 1 - Warning: meta isn't allowed in <body> elements
+line 332 column 1 - Warning: unknown attribute "property"
+line 332 column 1 - Warning: meta isn't allowed in <body> elements
+line 333 column 1 - Warning: unknown attribute "property"
+line 333 column 1 - Warning: meta isn't allowed in <body> elements
+line 334 column 1 - Warning: unknown attribute "property"
+line 334 column 1 - Warning: meta isn't allowed in <body> elements
+line 335 column 1 - Warning: meta isn't allowed in <body> elements
+line 336 column 1 - Warning: unknown attribute "sizes"
+line 336 column 1 - Warning: link isn't allowed in <body> elements
+line 337 column 1 - Warning: unknown attribute "sizes"
+line 337 column 1 - Warning: link isn't allowed in <body> elements
+line 338 column 1 - Warning: link isn't allowed in <body> elements
+line 339 column 1 - Warning: meta isn't allowed in <body> elements
+line 340 column -3 - Warning: </head> isn't allowed in <body> elements
+line 342 column 1 - Warning: <body> isn't allowed in <body> elements
+line 352 column 9 - Error: <header> is not recognized!
+line 352 column 9 - Warning: discarding unexpected <header>
+line 362 column 50 - Warning: missing </a> before <h1>
+line 364 column 21 - Warning: discarding unexpected </a>
+line 368 column 59 - Warning: trimming empty <span>
+line 369 column 49 - Warning: trimming empty <button>
+line 370 column 50 - Error: <nav> is not recognized!
+line 370 column 50 - Warning: discarding unexpected <nav>
+line 375 column 53 - Warning: discarding unexpected </nav>
+line 379 column 191 - Warning: trimming empty <i>
+line 384 column 5 - Warning: discarding unexpected </header>
+line 391 column 9 - Warning: unknown attribute "role"
+line 394 column 17 - Error: <main> is not recognized!
+line 394 column 17 - Warning: discarding unexpected <main>
+line 397 column 25 - Error: <section> is not recognized!
+line 397 column 25 - Warning: discarding unexpected <section>
+line 401 column 1 - Error: <article> is not recognized!
+line 401 column 1 - Warning: discarding unexpected <article>
+line 405 column 9 - Error: <header> is not recognized!
+line 405 column 9 - Warning: discarding unexpected <header>
+line 409 column 5 - Warning: discarding unexpected </header>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+117 warnings, 9 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
