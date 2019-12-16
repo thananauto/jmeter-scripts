@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1565357501781,1376,HTTP Request,200,OK,Google-test 1-1,text,true,,86227,236,2,2,https://www.amazon.com/,80,0,57
+1565357501781,80,HTTP Request-0,301,Moved Permanently,Google-test 1-1,text,true,,577,118,2,2,http://www.amazon.com/,80,0,57
+1565357501863,1294,HTTP Request-1,200,OK,Google-test 1-1,text,true,,85650,118,2,2,https://www.amazon.com/,1030,0,904
+1565357502648,751,HTTP Request,200,OK,Google-test 1-2,text,true,,86745,236,2,2,https://www.amazon.com/,32,0,2
+1565357502648,32,HTTP Request-0,301,Moved Permanently,Google-test 1-2,text,true,,577,118,2,2,http://www.amazon.com/,32,0,2
+1565357502681,718,HTTP Request-1,200,OK,Google-test 1-2,text,true,,86168,118,2,2,https://www.amazon.com/,212,0,86
+1565357508171,769,HTTP Request,200,OK,Google-test 1-1,text,true,,86259,236,2,2,https://www.amazon.com/,28,0,5
+1565357508171,28,HTTP Request-0,301,Moved Permanently,Google-test 1-1,text,true,,577,118,2,2,http://www.amazon.com/,28,0,5
+1565357508200,740,HTTP Request-1,200,OK,Google-test 1-1,text,true,,85682,118,2,2,https://www.amazon.com/,169,0,61
+1565357508404,785,HTTP Request,200,OK,Google-test 1-2,text,true,,86108,236,2,2,https://www.amazon.com/,32,0,4
+1565357508404,32,HTTP Request-0,301,Moved Permanently,Google-test 1-2,text,true,,577,118,2,2,http://www.amazon.com/,32,0,4
+1565357508436,753,HTTP Request-1,200,OK,Google-test 1-2,text,true,,85531,118,2,2,https://www.amazon.com/,178,0,71
+1565357513944,506,HTTP Request,200,OK,Google-test 1-1,text,true,,86304,236,2,2,https://www.amazon.com/,29,0,5
+1565357513944,29,HTTP Request-0,301,Moved Permanently,Google-test 1-1,text,true,,577,118,2,2,http://www.amazon.com/,29,0,5
+1565357513974,476,HTTP Request-1,200,OK,Google-test 1-1,text,true,,85727,118,2,2,https://www.amazon.com/,188,0,80
+1565357514192,507,HTTP Request,200,OK,Google-test 1-2,text,true,,86312,236,1,1,https://www.amazon.com/,45,0,10
+1565357514192,45,HTTP Request-0,301,Moved Permanently,Google-test 1-2,text,true,,577,118,1,1,http://www.amazon.com/,45,0,10
+1565357514238,461,HTTP Request-1,200,OK,Google-test 1-2,text,true,,85735,118,1,1,https://www.amazon.com/,167,0,40
